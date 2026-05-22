@@ -336,70 +336,26 @@ Git branching
 </tr>
 </table>
 
-<br/>
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:0a0a0f&height=2" width="100%" />
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=ddd6fe&ring_color=8b5cf6" />
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=ddd6fe" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=midnight-purple&hide_border=true&background=0d1117&ring=8b5cf6&fire=c084fc&currStreakLabel=ddd6fe&sideLabels=ddd6fe&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
-
-</div>
-
-<br/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:4c1d95&height=2" width="100%" />
 
 ## 📈 Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=iamsabitak&bg_color=0d1117&color=c084fc&line=8b5cf6&point=ffffff&area=true&area_color=1e1b4b&hide_border=true&custom_title=Contribution%20Activity"
+    width="100%"
+  />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=c084fc&line=8b5cf6&point=ffffff&area=true&area_color=1e1b4b&hide_border=true&custom_title=Contribution%20Activity%20%7C%20Consistent%20%26%20Growing" width="100%" />
+<p align="center">
+  Consistently building, learning, and contributing 🚀
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:0a0a0f&height=2" width="100%" />
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/yourusername/ghazanfar-bank-ui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ghazanfar-bank-ui&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=ddd6fe" />
-</a>
-<a href="https://github.com/yourusername/ui-component-library">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ui-component-library&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=ddd6fe" />
-</a>
-
-</div>
+<p align="center">
+  Turning commits into consistency 💜
+</p>
 
 <br/>
 
@@ -418,7 +374,7 @@ Git branching
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:4c1d95&height=2" width="100%" />
-
+<br/>
 ## 🎯 Open Source Goals
 
 ```
