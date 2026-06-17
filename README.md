@@ -109,33 +109,6 @@ My most impactful work includes contributing to **Ghazanfar Bank** — a digital
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:0a0a0f&height=2" width="100%" />
-
-## 🎯 Frontend Expertise
-
-<div align="center">
-
-| Domain | Skills & Depth |
-|---|---|
-| **Component Architecture** | Reusable, composable components · Atomic design · Prop API design |
-| **Styling Systems** | Tailwind CSS · SCSS/Sass · Styled Components · CSS Modules |
-| **Animations & Motion** | Framer Motion · CSS keyframes · Page transitions · Micro-interactions |
-| **Forms & Validation** | React Hook Form · Zod · Yup · Multi-step form flows |
-| **State Management** | Redux Toolkit · Zustand · TanStack Query · Context API |
-| **Data & Tables** | TanStack Table · Pagination · Sorting · Filtering |
-| **UI Libraries** | Mantine UI · shadcn/ui · Radix UI · MUI · Chakra UI |
-| **Icon Systems** | Lucide React · Tabler Icons · Solar Icons |
-| **Auth & Security** | JWT Authentication · Protected routes · Token refresh |
-| **Performance** | Code splitting · Lazy loading · Memoization · Bundle optimization |
-| **Responsive Design** | Mobile-first · Fluid layouts · Cross-browser testing |
-| **API Integration** | Axios · REST APIs · TanStack Query caching · Optimistic updates |
-
-</div>
-
-<br/>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:4c1d95&height=2" width="100%" />
 
 ## 🛠️ Tech Stack
