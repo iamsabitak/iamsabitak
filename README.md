@@ -384,50 +384,6 @@ Git branching
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:0a0a0f&height=2" width="100%" />
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                        │
-│   " Great UI is not just what you see —                              │
-│     it's what you feel when every interaction is effortless. "       │
-│                                                                        │
-└──────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🧩 Reusability First**
-> Every component I write is designed to be reused. Props are intentional, APIs are clean, and abstractions earn their place.
-
-**🎬 Motion with Purpose**
-> Animations aren't decoration — they guide attention, communicate state, and make interfaces feel alive without sacrificing performance.
-
-</td>
-<td width="50%" valign="top">
-
-**📱 Responsive by Default**
-> Mobile-first is not optional. Every layout I build works beautifully from 320px to 4K.
-
-**🔐 Type-Safe Everything**
-> TypeScript isn't a constraint — it's a superpower. Strict types mean fewer bugs, better DX, and more confident refactoring.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:4c1d95&height=2" width="100%" />
 
 ## 🤝 Connect With Me
@@ -441,21 +397,14 @@ Git branching
 <br/>
 
 <p>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/sabita-khadka-0b8291269/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
-  <a href="mailto:your@email.com">
+  <a href="mailto:sabitakhadka091@email.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
   </a>
   &nbsp;
-  <a href="https://yourportfolio.dev">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Work-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" />
-  </a>
 </p>
 
 <br/>
