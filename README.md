@@ -344,22 +344,8 @@ Git branching
 
 <br/>
 
-### 🔥 Project Highlights
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| **Ghazanfar Bank UI** | React · TypeScript · Tailwind · TanStack Query | Fintech digital banking app — transfers, dashboard, transaction history |
-| **Component Design System** | React · TypeScript · Mantine · shadcn/ui · Storybook | Reusable component library with theming and a11y support |
-| **Dashboard Template** | Next.js · Tailwind · TanStack Table · Zustand | Admin dashboard with sortable tables, charts, and auth |
-| **Animated Landing Page** | React · Framer Motion · SCSS | Performance-focused landing page with cinematic motion design |
-| **Task Manager App** | React · Redux Toolkit · React Hook Form · Zod | Full CRUD task management with drag-and-drop and form validation |
-
-<br/>
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:4c1d95&height=2" width="100%" />
-<br/>
 ## 🎯 Open Source Goals
 
 ```
